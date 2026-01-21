@@ -1,9 +1,10 @@
-# <p align="center">👋 Hi, I'm Am Salama Yasser Abdelrahman</p>
-
+# <p align="center">✨ Om Salama Yasser Abdelrahman ✨</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=distort&color=00599C&height=120&section=header&text=AI%20Engineer%20In%20The%20Making&fontSize=35&fontAlignY=50" />
+  <b>Computer Science Student | Aspiring AI & Software Engineer</b>
 </p>
-
+<p align="center">
+  <i>"Transforming data into intelligent solutions"</i>
+</p>
 ### 🎓 Computer Science Student | 🤖 Aspiring AI & Software Engineer
 
 I am a final-year Computer Science student passionate about programming and Artificial Intelligence (end_span). (start_span)I focus on building intelligent solutions and leveraging data to solve real-world problems(end_span).
