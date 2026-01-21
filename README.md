@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm Am Salama Yasser Abdelrahman</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20&%20Software%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/render?type=distort&color=00599C&height=120&section=header&text=AI%20Engineer%20In%20The%20Making&fontSize=35&fontAlignY=50" />
 </p>
 
 ### 🎓 Computer Science Student | 🤖 Aspiring AI & Software Engineer
