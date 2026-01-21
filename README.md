@@ -1,1 +1,55 @@
-# AM-SALAMA-YASSER-
+# <p align="center">👋 Hi, I'm Am Salama Yasser Abdelrahman</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20&%20Software%20Engineer&fontSize=40&animation=fadeIn&fontAlignY=55" />
+</p>
+
+### 🎓 Computer Science Student | 🤖 Aspiring AI & Software Engineer
+
+[span_0](start_span)I am a final-year Computer Science student passionate about programming and Artificial Intelligence[span_0](end_span). [span_1](start_span)I focus on building intelligent solutions and leveraging data to solve real-world problems[span_1](end_span).
+
+---
+
+### 🛠️ Technical Expertise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| 💻 Programming | [span_2](start_span)Python, C++, SQL[span_2](end_span) |
+| 🌐 Web Development | [span_3](start_span)HTML5, CSS3[span_3](end_span) |
+| 🤖 AI & Data Science | [span_4](start_span)Pandas, NumPy, Matplotlib, Scikit-Learn[span_4](end_span) |
+| 🧠 Deep Learning | [span_5](start_span)Basics of Neural Networks[span_5](end_span) |
+
+---
+
+### 🧠 Current Focus
+* [span_6](start_span)🎓 Graduation: Finalizing my Bachelor's degree in Computer Science (Graduating soon!)[span_6](end_span).
+* [span_7](start_span)🌱 Learning: Deepening my knowledge in Deep Learning and Neural Networks[span_7](end_span).
+* [span_8](start_span)🚀 Goals: Exploring Open Source contributions and building production-ready AI apps[span_8](end_span).
+
+---
+
+### 📂 Projects
+* 📊 Data Analysis: Using Python to extract insights from complex datasets.
+* [span_9](start_span)🤖 Machine Learning: Implementing predictive models using Scikit-Learn[span_9](end_span).
+* 🎓 Graduation Project: (In Progress) - Working on an AI-driven solution.
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+  <a href="[Your_LinkedIn_Link_Here]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="mailto:[Your_Email_Here]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+> [span_10](start_span)"Continuous learning is the minimum requirement for success in the field of technology."[span_10](end_span)
+..
