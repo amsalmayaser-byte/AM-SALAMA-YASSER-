@@ -6,7 +6,7 @@
 
 ### 🎓 Computer Science Student | 🤖 Aspiring AI & Software Engineer
 
-[span_0](start_span)I am a final-year Computer Science student passionate about programming and Artificial Intelligence[span_0](end_span). [span_1](start_span)I focus on building intelligent solutions and leveraging data to solve real-world problems[span_1](end_span).
+I am a final-year Computer Science student passionate about programming and Artificial Intelligence (end_span). (start_span)I focus on building intelligent solutions and leveraging data to solve real-world problems(end_span).
 
 ---
 
@@ -22,23 +22,23 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| 💻 Programming | [span_2](start_span)Python, C++, SQL[span_2](end_span) |
-| 🌐 Web Development | [span_3](start_span)HTML5, CSS3[span_3](end_span) |
-| 🤖 AI & Data Science | [span_4](start_span)Pandas, NumPy, Matplotlib, Scikit-Learn[span_4](end_span) |
-| 🧠 Deep Learning | [span_5](start_span)Basics of Neural Networks[span_5](end_span) |
+| 💻 Programming | (start_span)Python, C++, SQL(end_span) |
+| 🌐 Web Development | (start_span)HTML5, CSS3 (end_span) |
+| 🤖 AI & Data Science | (start_span)Pandas, NumPy, Matplotlib, Scikit-Learn (end_span) |
+| 🧠 Deep Learning | (start_span)Basics of Neural Networks (end_span) |
 
 ---
 
 ### 🧠 Current Focus
-* [span_6](start_span)🎓 Graduation: Finalizing my Bachelor's degree in Computer Science (Graduating soon!)[span_6](end_span).
-* [span_7](start_span)🌱 Learning: Deepening my knowledge in Deep Learning and Neural Networks[span_7](end_span).
-* [span_8](start_span)🚀 Goals: Exploring Open Source contributions and building production-ready AI apps[span_8](end_span).
+*  (start_span)🎓 Graduation: Finalizing my Bachelor's degree in Computer Science (Graduating soon!) (end_span).
+*  (start_span)🌱 Learning: Deepening my knowledge in Deep Learning and Neural Networks (end_span).
+*  (start_span)🚀 Goals: Exploring Open Source contributions and building production-ready AI apps (end_span).
 
 ---
 
 ### 📂 Projects
 * 📊 Data Analysis: Using Python to extract insights from complex datasets.
-* [span_9](start_span)🤖 Machine Learning: Implementing predictive models using Scikit-Learn[span_9](end_span).
+*  (start_span)🤖 Machine Learning: Implementing predictive models using Scikit-Learn (end_span).
 * 🎓 Graduation Project: (In Progress) - Working on an AI-driven solution.
 
 ---
