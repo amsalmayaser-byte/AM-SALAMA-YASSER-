@@ -29,7 +29,7 @@ I am a final-year Computer Science student passionate about programming and Arti
 ---
 
 ### 📫 Connect with me
-* LinkedIn: [ ]
+* LinkedIn: [ https://www.linkedin.com/in/amsalma-yaser-8b5282331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 * Email: [amsalmayaser@gmail.com]
 * GitHub: [https://github.com/amsalmayaser-byte](https://github.com/amsalmayaser-byte)
 
