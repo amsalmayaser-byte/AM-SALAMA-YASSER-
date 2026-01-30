@@ -1,39 +1,52 @@
 # <p align="center">✨ Am Salama Yasser Abdelrahman ✨</p>
-
 <p align="center">
-  <b>Final-Year Computer Science Student | Aspiring AI & Machine Learning Engineer</b> <br>
-  [span_0](start_span)<i>"Transforming data into intelligent solutions"</i>[span_0](end_span)
+  <b>Computer Science Student | Aspiring AI & Software Engineer</b>
 </p>
+<p align="center">
+  <i>"Transforming data into intelligent solutions"</i>
+</p>
+### 🎓 Computer Science Student | 🤖 Aspiring AI & Software Engineer
+
+I am a final-year Computer Science student passionate about programming and Artificial Intelligence 
+I focus on building intelligent solutions and leveraging data to solve real-world problems .
 
 ---
 
-### 🚀 About Me
-[span_1](start_span)I am a final-year Computer Science student passionate about programming and Artificial Intelligence[span_1](end_span). [span_2](start_span)I focus on building intelligent solutions and leveraging data to solve real-world problems[span_2](end_span).
+### 🛠️ Technical Expertise
 
-### 🛠 Technical Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| 💻 Programming | [span_3](start_span)Python, C++, SQL[span_3](end_span) |
-| 🌐 Web Development | [span_4](start_span)HTML5, CSS3[span_4](end_span) |
-| 📊 AI & Data Science | [span_5](start_span)Pandas, NumPy, Matplotlib, Scikit-Learn[span_5](end_span) |
-| 🧠 Current Focus | [span_6](start_span)Deep Learning & Neural Networks[span_6](end_span) |
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amsalmayaser-byte&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsalmayaser-byte&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+| 💻 Programming | Python, C++, SQL  |
+| 🌐 Web Development | HTML5, CSS3  |
+| 🤖 AI & Data Science | Pandas, NumPy, Matplotlib, Scikit-Learn |
+| 🧠 Deep Learning |  Basics of Neural Networks  |
 
 ---
 
-### 📫 Connect with me
-* [span_7](start_span)LinkedIn: [Am Salama Yasser](https://www.linkedin.com/in/amsalma-yaser-8b5282331)[span_7](end_span)
-* [span_8](start_span)Email: amsalmayaser@gmail.com[span_8](end_span)
-* [span_9](start_span)GitHub: [amsalmayaser-byte](https://github.com/amsalmayaser-byte)[span_9](end_span)
+### 🧠 Current Focus
+*  🎓 Graduation: Finalizing my Bachelor's degree in Computer Science (Graduating soon!) .
+*  🌱 Learning: Deepening my knowledge in Deep Learning and Neural Networks .
+*  🚀 Goals: Exploring Open Source contributions and building production-ready AI apps .
 
 ---
-<p align="center">
-[span_10](start_span)<i>"Continuous learning is the minimum requirement for success in the field of technology."</i>[span_10](end_span)
-</p>
+
+### 📂 Projects
+* 📊 Data Analysis: Using Python to extract insights from complex datasets.
+*  🤖 Machine Learning: Implementing predictive models using Scikit-Learn .
+* 🎓 Graduation Project: (In Progress) - Working on an AI-driven solution.
+
+---
+
+### 📬 Connect with Me
+
+* 💼 LinkedIn:[https://www.linkedin.com/in/amsalma-yaser-8b5282331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* 📧 Email: [ amsalmayaser@gmail.com ]
+---
